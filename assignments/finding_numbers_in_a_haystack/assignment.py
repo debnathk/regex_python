@@ -1,3 +1,9 @@
+'''
+Problem statement(s):
+    1. Read through and parse a file with text and numbers. 
+    2. Extract all the numbers in the file and compute the sum of the numbers.
+'''
+
 import re
 
 x = open('regex_sum_1751776.txt')
